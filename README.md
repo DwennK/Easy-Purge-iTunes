@@ -3,5 +3,5 @@ Purge all backup from iTunes
 
 
 ```console
-rmdir %APPDATA%/Apple Computer/MobileSync/Backup
+rmdir /S /Q %APPDATA%/Apple Computer/MobileSync/Backup
 ```
