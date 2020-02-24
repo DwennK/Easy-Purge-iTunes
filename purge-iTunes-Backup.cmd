@@ -1,1 +1,2 @@
-rmdir /S /Q %APPDATA%/Apple Computer/MobileSync/Backup
+rmdir /S /Q "%APPDATA%/Apple Computer/MobileSync/Backup"
+pause
